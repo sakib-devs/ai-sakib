@@ -31,7 +31,7 @@ Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 -   :zap: At free time, I solve problems on Leetcode and read tech articles.
 
--   :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SAKIB-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakib2439/)
+-   :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SAKIB-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakib-devs/)
 
 ---
 
